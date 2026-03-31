@@ -18,8 +18,10 @@ This is my AI-based agriculture project.
     <a href="#-architecture--localization">Architecture</a>
   </p>
 </div>
-## 🌐 Live Demo
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://krishiai-seven.vercel.app/)
+
+
+## 🌐 Live Demo : 👉 **[Krishi-AI](https://krishiai-seven.vercel.app)**
+
 ---
 
 <div align="center">
