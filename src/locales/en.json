@@ -1,0 +1,689 @@
+{
+  "nav": {
+    "home": "Home",
+    "analyze": "Analyze",
+    "disease": "Disease",
+    "weather": "Weather",
+    "market": "Market",
+    "schemes": "Schemes",
+    "news": "News",
+    "contact": "Contact",
+    "quick_links": "Quick Links",
+    "gov_links": "Government Links"
+  },
+  "brand": {
+    "name": "Krishi AI",
+    "subtitle": "Maharashtra Farming Solutions"
+  },
+  "footer": {
+    "title": "AI-based crop recommendations for Maharashtra farmers",
+    "subtitle": "Smart Farming Solutions",
+    "disclaimer": "An initiative by Krishi AI for the farmers of Maharashtra.",
+    "all_rights": " All Rights Reserved."
+  },
+  "home": {
+    "hero_title": "Krishi AI",
+    "hero_subtitle": "AI-based crop recommendations for Maharashtra farmers",
+    "start_analysis": "Start Analysis",
+    "services_title": "Our Services",
+    "services_subtitle": "Combining modern technology with traditional knowledge",
+    "features": {
+      "soil_analysis": "Smart Soil Analysis",
+      "soil_analysis_desc": "Detailed analysis of pH, moisture and nutrients",
+      "crop_rec": "AI Crop Recommendations",
+      "crop_rec_desc": "Best crop selection for your soil",
+      "profit": "Profit Calculation",
+      "profit_desc": "Estimated yield and profit information",
+      "easy": "Easy to Use",
+      "easy_desc": "Simple language and easy navigation",
+      "reliable": "Reliable",
+      "reliable_desc": "Science-based recommendations",
+      "instant": "Instant Results",
+      "instant_desc": "Detailed report in minutes"
+    },
+    "how_it_works": "How It Works?",
+    "steps": {
+      "step1_title": "Enter Soil Information",
+      "step1_desc": "Fill in pH, moisture, and nutrient information",
+      "step2_title": "AI Analysis",
+      "step2_desc": "Our AI analyzes your soil",
+      "step3_title": "Get Crop Recommendations",
+      "step3_desc": "Best crops and profit information"
+    },
+    "how_it_works_title": "How it works?",
+    "how_it_works_subtitle": "Three simple steps to better farming",
+    "how_it_works_steps": [
+      {
+        "title": "Enter Soil Details",
+        "description": "Provide your soil's pH, moisture and nutrient levels manually or via photo."
+      },
+      {
+        "title": "AI Analysis",
+        "description": "Our specialized AI models analyze your soil and location data."
+      },
+      {
+        "title": "Get Results",
+        "description": "Receive detailed crop recommendations and profit estimations."
+      }
+    ],
+    "services": [
+      {
+        "title": "Soil Analysis",
+        "description": "Get detailed reports on your soil health and suitability for various crops."
+      },
+      {
+        "title": "Disease Detection",
+        "description": "Upload photos of crops to identify and treat diseases instantly."
+      },
+      {
+        "title": "Market Prices",
+        "description": "Stay updated with real-time crop prices across all Maharashtra Mandis."
+      },
+      {
+        "title": "Weather Advisory",
+        "description": "Get location-specific agricultural weather forecasts and warnings."
+      },
+      {
+        "title": "Govt Schemes",
+        "description": "Information on the latest central and state government agricultural schemes."
+      },
+      {
+        "title": "AI Chatbot",
+        "description": "24/7 expert agricultural assistance in your local language."
+      }
+    ],
+    "cta_title": "Start Today",
+    "cta_subtitle": "Analyze your soil and choose the best crop",
+    "cta_button": "Analyze Now"
+  },
+  "analyze": {
+    "toast": {
+      "incomplete_title": "Incomplete Information",
+      "incomplete_desc": "Please fill all fields",
+      "invalid_ph_title": "Invalid pH Value",
+      "invalid_ph_desc": "pH should be between 0-14",
+      "invalid_moisture_title": "Invalid Moisture Value",
+      "invalid_moisture_desc": "Moisture should be between 0-100%",
+      "complete_title": "Analysis Complete",
+      "complete_desc": "Proceed to view results"
+    },
+    "title": "Soil Analysis and Crop Recommendation",
+    "subtitle": "Provide your soil information and get the best crop recommendations from AI",
+    "choose_method": "Choose Analysis Method",
+    "manual_data": "Manual Data",
+    "photo_analysis": "Photo Analysis",
+    "form": {
+      "title": "Soil Analysis Form",
+      "ph_level": "pH Level (0-14)",
+      "ph_normal": "Ideal: 6.0-7.5",
+      "moisture": "Moisture (%)",
+      "moisture_normal": "Ideal: 40-60%",
+      "nitrogen": "Nitrogen",
+      "phosphorus": "Phosphorus",
+      "potassium": "Potassium",
+      "select_placeholder": "Select",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "location": "Location",
+      "location_placeholder": "e.g., Nagpur",
+      "state": "Maharashtra",
+      "state_placeholder": "Maharashtra",
+      "district": "District",
+      "district_placeholder": "Select District",
+      "analyze": "Analyze",
+      "analyzing": "AI Analyzing..."
+    },
+    "info": {
+      "title": "Crop Selection Information",
+      "benefits_title": "Benefits of Soil Testing",
+      "benefit_1": "Helps choose right crops",
+      "benefit_2": "Correct fertilizer amount",
+      "benefit_3": "Higher yield",
+      "benefit_4": "Cost reduction",
+      "tips_title": "Tips",
+      "tip_1": "Provide accurate information",
+      "tip_2": "Regular soil testing",
+      "tip_3": "Consult local experts"
+    }
+  },
+  "disease": {
+    "title": "Crop Disease Detection",
+    "subtitle": "Take a photo of your crop and let AI detect any diseases",
+    "photo_analysis": "Photo Analysis",
+    "take_photo_desc": "Take photo of crop leaves, stem or fruit",
+    "take_photo_btn": "Take Photo",
+    "support_title": "Support",
+    "helpline": "Agriculture Helpline",
+    "chatbot": "AI Chatbot",
+    "chatbot_desc": "Click icon in bottom right",
+    "result": {
+      "disease_detected": "Disease Detected",
+      "healthy": "Crop is Healthy",
+      "name": "Disease Name:",
+      "severity": "Severity:",
+      "treatment": "Treatment:",
+      "prevention": "Prevention:",
+      "healthy_desc": "Your crop looks healthy. Continue regular care."
+    },
+    "new_analysis": "New Analysis",
+    "talk_expert": "Talk to Expert",
+    "info": {
+      "title": "Important Information",
+      "common_diseases": "Common Crop Diseases",
+      "disease_1": "Leaf spots",
+      "disease_2": "Blight",
+      "disease_3": "Powdery mildew",
+      "disease_4": "Root rot",
+      "prevention": "Prevention Methods",
+      "prev_1": "Proper watering",
+      "prev_2": "Cleanliness",
+      "prev_3": "Regular inspection",
+      "prev_4": "Resistant varieties"
+    }
+  },
+  "weather": {
+    "title": "Weather Forecast",
+    "subtitle": "Government of Maharashtra - Agriculture Department",
+    "search_placeholder": "Search District",
+    "search_btn": "Search",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "visibility": "Visibility",
+    "forecast_title": "5-Day Forecast",
+    "advisory": {
+      "title": "Agricultural Advisory",
+      "item_1": "Temperature is moderate, suitable for sowing",
+      "item_2": "Good humidity level, no irrigation needed",
+      "item_3": "Light wind, good time for spraying"
+    },
+    "warning": {
+      "title": "Rainfall Warning",
+      "alert": "Alert",
+      "alert_desc": "Light rainfall expected in next 2 days",
+      "recommendations": "Recommendations:",
+      "rec_1": "Harvest crops early",
+      "rec_2": "Store fertilizer and seeds safely",
+      "rec_3": "Arrange proper drainage"
+    },
+    "voice": "Today's weather is favorable for farmers in Maharashtra. Best time for field work is early morning.",
+    "days": {
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "day_after": "Day After",
+      "friday": "Friday",
+      "saturday": "Saturday"
+    },
+    "location_default": "Pune, Maharashtra",
+    "advisory_voice": "Today's weather is favorable for farmers. The best time for farming work is from 6 to 10 AM and 4 to 6 PM."
+  },
+  "results": {
+    "header": {
+      "title": "Analysis Results",
+      "subtitle": "AI-powered crop recommendations for Maharashtra",
+      "voice": "Based on your soil health in {{district}}, we found {{count}} recommendations. Your soil health is {{health}}."
+    },
+    "summary": {
+      "title": "Soil Health Summary",
+      "ph_level": "pH Level",
+      "moisture": "Moisture",
+      "nutrients": "Nutrient Levels",
+      "health": "Overall Health: ",
+      "ideal": "Ideal",
+      "adjust": "Adjust",
+      "good": "Good",
+      "low": "Low",
+      "location": "Location"
+    },
+    "recommendations": {
+      "title": "Top Crop Recommendations",
+      "best_match": "Best Match",
+      "suitability": "Suitability",
+      "yield": "Expected Yield",
+      "profit": "Estimated Profit",
+      "season": "Best Season",
+      "view_details": "View Details",
+      "hide_details": "Hide Details"
+    },
+    "no_recommendations": "No suitable crops found for these conditions.",
+    "no_data": {
+      "title": "No Analysis Data",
+      "desc": "Please complete a soil analysis first."
+    },
+    "actions": {
+      "new_analysis": "New Analysis",
+      "share": "Share Result",
+      "share_title": "Krishi AI - My Crop Recommendation",
+      "copied": "Link Copied",
+      "copied_desc": "Result link copied to clipboard"
+    },
+    "crops": {
+      "rice": {
+        "name": "Rice (Paddy)",
+        "expectedYield": "20-25 Quintal/Acre",
+        "profitEstimate": "₹40,000-50,000",
+        "season": "Kharif",
+        "reasons": ["High moisture suitability", "Ideal pH level", "Standard Konkan/Vidarbha crop"],
+        "tips": ["Use local varieties like Masuri", "Ensure standing water in early stage"]
+      },
+      "wheat": {
+        "name": "Wheat",
+        "expectedYield": "15-18 Quintal/Acre",
+        "profitEstimate": "₹30,000-35,000",
+        "season": "Rabi",
+        "reasons": ["Moderate temperature tolerance", "Good soil structure"],
+        "tips": ["Late sowing can reduce yield", "Sow by mid-November"]
+      },
+      "sugarcane": {
+        "name": "Sugarcane",
+        "expectedYield": "40-50 Tonne/Acre",
+        "profitEstimate": "₹1.5-2 Lakh",
+        "season": "Annual",
+        "reasons": ["High nutrient availability", "Deep soil depth"],
+        "tips": ["Use drip irrigation", "Register with local sugar factory early"]
+      },
+      "cotton": {
+        "name": "Cotton",
+        "expectedYield": "10-12 Quintal/Acre",
+        "profitEstimate": "₹60,000-70,000",
+        "season": "Kharif",
+        "reasons": ["Black soil match", "Low moisture requirement"],
+        "tips": ["Watch for Pink Bollworm", "Inter-crop with Tur"]
+      },
+      "soybean": {
+        "name": "Soybean",
+        "expectedYield": "8-10 Quintal/Acre",
+        "profitEstimate": "₹35,000-40,000",
+        "season": "Kharif",
+        "reasons": ["Nitrogen rich soil", "Short duration crop"],
+        "tips": ["Use broad bed furrow method", "Check seed germination before sowing"]
+      },
+      "orange": {
+        "name": "Nagpur Orange",
+        "expectedYield": "8-10 Tonne/Acre",
+        "profitEstimate": "₹2-3 Lakh",
+        "season": "Perennial",
+        "reasons": ["Volcanic black soil match", "Vidarbha climate preference"],
+        "tips": ["Manage drainage well", "Regular pruning for better fruit size"]
+      }
+    },
+    "reasons": {
+      "regional_match": "Perfect match for {{region}} regional profile"
+    },
+    "regional": {
+      "title": "{{region}} Regional Insights",
+      "desc": "In {{district}}, the prevalent {{soil}} is ideal for cultivation of crops like {{crops}}.",
+      "tip_vidarbha": "💡 Pro Tip: Cotton harvesting is best completed before the late-October chill.",
+      "tip_konkan": "💡 Pro Tip: Ensure proper drainage for Mango orchards during the intense monsoon."
+    },
+    "health": {
+      "excellent": "Excellent",
+      "good": "Good",
+      "needs_improvement": "Needs Improvement",
+      "unknown": "Unknown"
+    }
+  },
+  "market": {
+    "title": "Market Prices",
+    "subtitle": "Government of Maharashtra - Agricultural Marketing Board",
+    "voice": "Today's market prices in Maharashtra: Cotton ₹8,200, Soybean ₹4,950, Orange ₹4,100 per quintal. Prices are rising for cotton.",
+    "select_district": "Select District:",
+    "updated": "Updated: Today",
+    "mandi": "Market Yard",
+    "summary": {
+      "rising": "Rising Prices",
+      "falling": "Falling Prices",
+      "total_crops": "Total Crops",
+      "avg_price": "Average Price"
+    },
+    "table": {
+      "title": "Today's Market Prices",
+      "per": "per",
+      "from_yesterday": "from yesterday",
+      "up": "UP",
+      "down": "DOWN"
+    },
+    "tips": {
+      "title": "Market Tips",
+      "tip_1": "Cotton prices are expected to rise further; consider holding stock.",
+      "tip_2": "Morning auctions (8-10 AM) often yield more competitive rates.",
+      "tip_3": "Register on e-NAM for access to national buyers."
+    },
+    "contact": {
+      "title": "Mandi Support",
+      "office": "Nodal Market Office",
+      "phone": "Phone: 020-5551122",
+      "time": "Time: 6 AM to 8 PM",
+      "officer": "Market Superintendent",
+      "mobile": "Mobile: +91-9800011122",
+      "email": "Email: market.msamb@maharashtra.gov.in",
+      "address": "View Address"
+    },
+    "districts": {
+      "nagpur": "Nagpur",
+      "pune": "Pune",
+      "nashik": "Nashik",
+      "jalgaon": "Jalgaon",
+      "amravati": "Amravati",
+      "latur": "Latur",
+      "aurangabad": "Chh. Sambhajinagar",
+      "solapur": "Solapur",
+      "kolhapur": "Kolhapur"
+    }
+  },
+  "schemes": {
+    "title": "Government Schemes",
+    "subtitle": "Government of Maharashtra - Agriculture Department",
+    "voice": "Various schemes of the Maharashtra government: Magel Tyala Shet-tale, PoCRA, and crop insurance per 1 Rupee are available.",
+    "stats": {
+      "active": "Active Schemes",
+      "upcoming": "Upcoming",
+      "beneficiaries": "Beneficiaries",
+      "distributed": "Amount Distributed"
+    },
+    "status": {
+      "active": "Active",
+      "upcoming": "Upcoming",
+      "closed": "Closed"
+    },
+    "labels": {
+      "description": "Description",
+      "benefit": "Benefit",
+      "amount": "Amount",
+      "eligibility": "Eligibility",
+      "documents": "Required Documents",
+      "deadline": "Deadline"
+    },
+    "buttons": {
+      "apply": "Apply Now",
+      "details": "More Details",
+      "helpline": "Helpline"
+    },
+    "help": {
+      "title": "Need Help?",
+      "desc": "Contact for more information about schemes or help with applications",
+      "helpline": "Farmer Helpline",
+      "helpline_value": "1800-120-8040",
+      "portal": "krishi.maharashtra.gov.in",
+      "portal_url": "https://krishi.maharashtra.gov.in",
+      "office": "MahaAgri Office",
+      "days": "Mon - Fri, 10 AM - 6 PM"
+    },
+    "list": [
+      {
+        "id": "1",
+        "name": "Magel Tyala Shet-tale",
+        "nameHindi": "Magel Tyala Shet-tale",
+        "description": "Providing individual farm ponds to farmers for irrigation.",
+        "benefit": "Government subsidy up to ₹50,000",
+        "eligibility": [
+          "Minimum 0.60 hectares of land",
+          "Technically suitable site",
+          "Resident of Maharashtra"
+        ],
+        "documents": [
+          "7/12 Extract",
+          "8-A Extract",
+          "Aadhaar Card"
+        ],
+        "amount": "₹50,000",
+        "deadline": "Available year-round",
+        "category": "Water Conservation",
+        "status": "active"
+      },
+      {
+        "id": "2",
+        "name": "PoCRA",
+        "nameHindi": "Nanaji Deshmukh Krishi Sanjivani Prakalp",
+        "description": "Climate Resilient Agriculture development.",
+        "benefit": "75% to 100% subsidy for various agri-components",
+        "eligibility": [
+          "Farmers with up to 2 hectares land",
+          "Farmers from selected districts",
+          "Small and marginal farmers"
+        ],
+        "documents": [
+          "Aadhaar Card",
+          "7/12 & 8-A Extracts",
+          "Self-declaration"
+        ],
+        "amount": "Subsidy as per component",
+        "deadline": "Implementation active",
+        "category": "Climate Smart Ag",
+        "status": "active"
+      },
+      {
+        "id": "3",
+        "name": "Pik Vima",
+        "nameHindi": "Pradhan Mantri Fasal Bima (1 Rupee)",
+        "description": "Crop insurance protection for just 1 Rupee.",
+        "benefit": "Compensation for crop loss due to natural calamities",
+        "eligibility": [
+          "All farmers in Maharashtra",
+          "Resident of Maharashtra State"
+        ],
+        "documents": [
+          "7/12 Extract",
+          "Aadhaar Card",
+          "Sowing Certificate"
+        ],
+        "amount": "₹1 Premium",
+        "deadline": "July 15, 2024",
+        "category": "Insurance",
+        "status": "active"
+      }
+    ]
+  },
+  "news": {
+    "title": "Agricultural News",
+    "subtitle": "Government of Maharashtra - Agriculture Department",
+    "voice": "Agriculture News: 1 Rupee crop insurance scheme success, bonus for cotton and soybean farmers, Vidarbha orange package details.",
+    "badges": {
+      "featured": "Featured News",
+      "urgent": "Urgent",
+      "normal": "Normal",
+      "info": "Info"
+    },
+    "labels": {
+      "views": "views",
+      "read_full": "Read Full",
+      "share": "Share",
+      "read": "Read",
+      "categories": "Categories:"
+    },
+    "categories": {
+      "all": "All",
+      "weather": "Weather",
+      "schemes": "Schemes",
+      "market": "Market"
+    },
+    "list": [
+      {
+        "id": "1",
+        "title": "1 Rupee Crop Insurance Scheme Success",
+        "summary": "Maharashtra government's 1 Rupee crop insurance scheme has seen record registrations this season.",
+        "category": "Schemes",
+        "date": "2024-03-31",
+        "readTime": "3 min",
+        "views": 4500
+      },
+      {
+        "id": "2",
+        "title": "New Package for Vidarbha Orange Growers",
+        "summary": "State government announces support package for orange orchards in Nagpur and Amravati regions.",
+        "category": "Market",
+        "date": "2024-03-30",
+        "readTime": "2 min",
+        "views": 2800
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Government of Maharashtra - Agriculture Department",
+    "hq": {
+      "title": "Headquarters Contact",
+      "address": "Address",
+      "address_value": "Agriculture Bhawan, Pune\nMaharashtra - 411001",
+      "phone": "Phone",
+      "email": "Email",
+      "hours_value": "Monday - Friday: 10:00 AM - 5:45 PM"
+    },
+    "emergency": {
+      "title": "Emergency Help",
+      "helpline": "Kisan Helpline",
+      "whatsapp": "Agri SMS/WhatsApp",
+      "email": "Emergency Email"
+    },
+    "officers": {
+      "title": "District Agricultural Officers",
+      "list": [
+        {
+          "name": "Shri. Rajesh Patil",
+          "position": "Joint Director (Agri)",
+          "district": "Pune Region",
+          "phone": "+91-20-25510656",
+          "email": "jd.pune@agri.mah.gov.in",
+          "office": "Pune Agri Bhawan",
+          "availability": "Mon-Fri (10am-5pm)"
+        },
+        {
+          "name": "Dr. Vinay Deshmukh",
+          "position": "District Officer",
+          "district": "Nagpur",
+          "phone": "+91-712-2560011",
+          "email": "dao.nagpur@agri.mah.gov.in",
+          "office": "Nagpur District Office",
+          "availability": "Mon-Fri (10am-5pm)"
+        },
+        {
+          "name": "Shri. Nitin Khade",
+          "position": "Divisional Officer",
+          "district": "Nashik",
+          "phone": "+91-253-2451122",
+          "email": "div.nashik@agri.mah.gov.in",
+          "office": "Nashik Agri HQ",
+          "availability": "Mon-Fri (10am-5pm)"
+        }
+      ]
+    },
+    "quick": {
+      "title": "Quick Contact",
+      "missed": "Request Call Back",
+      "sms": "SMS Support",
+      "complaint": "File Complaint"
+    },
+    "response": {
+      "title": "Response Guarantee",
+      "emergency": "Emergency",
+      "immediate": "Immediate Assistance",
+      "normal": "Normal Query",
+      "hours24": "Within 24 Hours",
+      "info": "Information",
+      "hours48": "Within 48 Hours"
+    }
+  },
+  "location": {
+    "districts": {
+      "ahmednagar": "Ahmednagar",
+      "akola": "Akola",
+      "amravati": "Amravati",
+      "aurangabad": "Aurangabad",
+      "beed": "Beed",
+      "bhandara": "Bhandara",
+      "buldhana": "Buldhana",
+      "chandrapur": "Chandrapur",
+      "dhule": "Dhule",
+      "gadchiroli": "Gadchiroli",
+      "gondia": "Gondia",
+      "hingoli": "Hingoli",
+      "jalgaon": "Jalgaon",
+      "jalna": "Jalna",
+      "kolhapur": "Kolhapur",
+      "latur": "Latur",
+      "nagpur": "Nagpur",
+      "nanded": "Nanded",
+      "nashik": "Nashik",
+      "pune": "Pune",
+      "ratnagiri": "Ratnagiri",
+      "sangli": "Sangli",
+      "satara": "Satara",
+      "solapur": "Solapur",
+      "thane": "Thane"
+    }
+  },
+  "about": {
+    "title": "About Krishi AI",
+    "subtitle": "Smart crop recommendation system for Maharashtra farmers",
+    "voice": "Krishi AI is a smart platform built for Maharashtra farmers. Our mission is to increase farmer income and improve crop quality using modern AI technology.",
+    "mission": {
+      "title": "Our Mission",
+      "desc": "Our main goal is to empower Maharashtra farmers with modern technology. We want every farmer to make data-driven decisions for better yields and sustainable growth."
+    },
+    "features": {
+      "title": "Our Features",
+      "accurate": {
+        "title": "Accurate Recommendations",
+        "desc": "Scientific data and AI-driven insights tailored for your specific soil and district."
+      },
+      "farmer_focused": {
+        "title": "Farmer Focused",
+        "desc": "Built for the needs of local farmers with a simple interface and multi-lingual support."
+      },
+      "reliable": {
+        "title": "Reliable & Secure",
+        "desc": "Verified agricultural information and secure data handling for peace of mind."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "desc": "Combining traditional farming wisdom with cutting-edge machine learning technology."
+      }
+    },
+    "team": {
+      "title": "Our Expert Team",
+      "member_1": {
+        "name": "Dr. Rajesh Patil",
+        "role": "Agricultural Expert",
+        "desc": "20+ years of experience in Maharashtra soil science and crop management."
+      },
+      "member_2": {
+        "name": "Dr. Vinay Deshmukh",
+        "role": "AI Research Lead",
+        "desc": "Specializing in climate-resilient agriculture and predictive modeling."
+      },
+      "member_3": {
+        "name": "Shri. Nitin Khade",
+        "role": "Product Lead",
+        "desc": "10+ years working directly with farmers in Vidarbha and Marathwada regions."
+      }
+    },
+    "achievements": {
+      "title": "Our Impact",
+      "farmers": "Happy Farmers",
+      "districts": "Districts Covered",
+      "accuracy": "AI Accuracy",
+      "income": "Income Increase"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "email_label": "Email",
+      "email_value": "contact@krishiai.mah.gov.in",
+      "helpline_label": "Helpline",
+      "helpline_value": "1800-120-8040",
+      "address_label": "Address",
+      "address_value": "Pune, Maharashtra",
+      "availability": "Monday to Friday, 10 AM to 6 PM",
+      "start_today": "Start Soil Analysis Today"
+    }
+  },
+  "common": {
+    "states": {
+      "maharashtra": "Maharashtra"
+    }
+  },
+  "not_found": {
+    "title": "404",
+    "subtitle": "Oops! Page not found",
+    "return": "Return to Home"
+  }
+}
