@@ -1,3 +1,6 @@
+# Krishi AI Project
+
+This is my AI-based agriculture project.
 <div align="center">
   <img src="./public/logo.png" alt="Krishi-AI Logo" width="120" />
   
